@@ -1,0 +1,22 @@
+{
+  "name": "kkk2022",
+  "version": "1.0.0",
+  "description": "name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaungkyawkyaw/kkk.git"
+  },
+  "keywords": [
+    "kkk"
+  ],
+  "author": "kaung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaungkyawkyaw/kkk/issues"
+  },
+  "homepage": "https://github.com/kaungkyawkyaw/kkk#readme"
+}
